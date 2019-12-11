@@ -8,7 +8,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * ThreadPoolExecutor方式使用线程池
  * @author devinlee
- * @data 20191211
+ * @date 20191211
  */
 public class ThreadPoolTest {
 
